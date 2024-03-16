@@ -37,7 +37,7 @@ p{
   padding-left: 30px;
   padding-top: 20px;
   font-family: "Hanken Grotesk";
-  font-weight: 700;
+  font-weight: 800;
 }
 .number{
   width: 50%;
@@ -65,7 +65,7 @@ p{
   padding-bottom: 50px;
   padding-left: 20px;
   padding-right: 20px;
-  color: hsl(0, 0%, 90%);
+  color: hsl(0, 0%, 80%);
   font-family: "Hanken Grotesk";
 }
 .p3{
@@ -73,7 +73,7 @@ p{
   color: white;
   font-family: "Hanken Grotesk";
   font-weight: 800;
-  font-size: 16px;
+  font-size: 18px;
   padding-top: 20px;
 }
 .p4{
@@ -140,7 +140,7 @@ p{
   padding-left: 6px;
   font-size: 14px;
   font-family: "Hanken Grotesk";
-  font-weight: 500;
+  font-weight: 700;
   font-size: 14px;
   color: hsl(0, 100%, 67%);
 }
@@ -148,7 +148,7 @@ p{
   padding-top: 10px;
   padding-left: 50px;
   font-family: "Hanken Grotesk";
-  font-weight: 600;
+  font-weight: 800;
   font-size: 14px;
   color: hsl(224, 30%, 27%);
 }
@@ -158,14 +158,14 @@ p{
   font-size: 14px;
   font-family: "Hanken Grotesk";
   color: hsl(0, 5%, 70%);
-  font-weight: 600;
+  font-weight: 800;
 }
 .word-2{
   padding-top: 10px;
   padding-left: 6px;
   font-size: 14px;
   font-family: "Hanken Grotesk";
-  font-weight: 500;
+  font-weight: 700;
   font-size: 14px;
   color: hsl(40, 85%, 69%);
 }
@@ -173,7 +173,7 @@ p{
   padding-top: 10px;
   padding-left: 50px;
   font-family: "Hanken Grotesk";
-  font-weight: 600;
+  font-weight: 800;
   font-size: 14px;
   color: hsl(224, 30%, 27%);
 }
@@ -182,7 +182,7 @@ p{
   padding-left: 6px;
   font-size: 14px;
   font-family: "Hanken Grotesk";
-  font-weight: 500;
+  font-weight: 700;
   font-size: 14px;
   color: hsl(165, 42%, 54%);
 }
@@ -190,7 +190,7 @@ p{
   padding-top: 10px;
   padding-left: 62px;
   font-family: "Hanken Grotesk";
-  font-weight: 600;
+  font-weight: 800;
   font-size: 14px;
   color: hsl(224, 30%, 27%);
 }
@@ -199,7 +199,7 @@ p{
   padding-left: 6px;
   font-size: 14px;
   font-family: "Hanken Grotesk";
-  font-weight: 500;
+  font-weight: 700;
   font-size: 14px;
   color: hsl(230, 48%, 58%);
 }
@@ -207,7 +207,7 @@ p{
   padding-top: 10px;
   padding-left: 65px;
   font-family: "Hanken Grotesk";
-  font-weight: 600;
+  font-weight: 800;
   font-size: 14px;
   color: hsl(224, 30%, 27%);
 }
@@ -222,7 +222,7 @@ p{
   border-radius: 20px;
   border: none;
   font-family: "Hanken Grotesk";
-  font-weight: 500;
+  font-weight: 700;
   font-size: 14px;
   color: white;
   background-color: hsl(224, 30%, 27%) ;
